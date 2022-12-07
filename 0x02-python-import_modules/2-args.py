@@ -5,7 +5,7 @@ if __name__ == "__main__":
     argv_count = len(argv)
     index = 1
     if argv_count is 0:
-        print("{:d} argument.".format(argv_count))
+        print("{:d} arguments.".format(argv_count))
     elif argv_count is 1:
         print("{:d} argument:".format(argv_count))
         print("{:d}: {:s}".format(index, sys.argv[1]))
