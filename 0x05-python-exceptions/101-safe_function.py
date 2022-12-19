@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 101-safe_function.py
-# kingauhtor
+# kingauthor
 
 import sys
 
