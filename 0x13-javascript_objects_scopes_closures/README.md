@@ -1,0 +1,1 @@
+JavaScript_object_scope
